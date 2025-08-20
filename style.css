@@ -321,7 +321,7 @@ h2 {
 #card1:checked ~ .navigation label[for="card1"],
 #card2:checked ~ .navigation label[for="card2"],
 #card3:checked ~ .navigation label[for="card3"] {
-    background-color: #efc460;
+    background-color: #efc460d5;
 }
 
 .bookNow {
